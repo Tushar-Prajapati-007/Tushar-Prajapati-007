@@ -63,7 +63,7 @@ Passionate about digital systems, low-level hardware design, and process optimiz
 * Designed and verified in Verilog.
 * Testbenches in **SystemVerilog** with assertions & coverage.
 
-### 🔹 4-bit Multiplexer Verification
+### 🔹 64-bit Multiplexer Verification
 
 * Verified using **SVVM methodology**.
 * Achieved **100% functional coverage**.
@@ -77,23 +77,6 @@ Passionate about digital systems, low-level hardware design, and process optimiz
 
   * RTL design & verification of digital blocks
   * Methodology-based verification environment
-
----
-
-## 🏆 Achievements
-
-* 🥉 **3rd Place** – Drone Flying & Building Competition (Aerobots Club)
-
----
-
-## 📌 How to Use This Repository
-
-This repository showcases my **VLSI design & verification projects**, complete with RTL, testbenches, and documentation.
-Explore project directories for:
-
-* 📜 RTL Code
-* 🧪 Testbenches
-* 📊 Coverage Reports
 
 ---
 
