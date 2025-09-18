@@ -44,7 +44,7 @@ Passionate about digital systems, low-level hardware design, and process optimiz
 
 ### 🔹 16-bit CPU with GlobalFoundries
 
-* Designed & verified a **multi-cycle 16-bit RISC CPU** in Verilog.
+* Designed & verified a **multi-cycle 16-bit Custom ISA CPU** in Verilog.
 * Custom ISA with **request/acknowledge handshake protocol** and **debouncer integration**.
 * Targeted **GF 180nm PDK**.
 
