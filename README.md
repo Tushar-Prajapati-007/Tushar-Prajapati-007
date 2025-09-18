@@ -1,11 +1,100 @@
-<h1 align="center">Hi 👋, I'm Tushar Prajapati</h1>
-<h3 align="center">A passionate ASIC Verification Engineer from India</h3>
+Tushar Prajapati
 
-- 🔭 I’m currently working on 16-bit CPU Custom ISA **16-bit CPU Custom ISA**
+🚀 Aspiring VLSI Verification Engineer | RTL Design | ASIC Verification | Digital Design
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+💡 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+I am an enthusiastic VLSI Engineer with hands-on experience in RTL design, functional verification, and ASIC flows.
+Passionate about digital systems, low-level hardware design, and process optimization in the semiconductor domain.
+
+🛠️ Skills & Tools
+🔹 Hardware Description Languages
+
+
+
+
+🔹 Verification & Methodologies
+
+
+
+
+
+
+🔹 EDA Tools
+
+
+
+
+
+
+🔹 Programming & Scripting
+
+
+
+
+
+
+
+
+
+
+🔹 OS
+
+📂 VLSI Projects
+🔹 16-bit CPU with GlobalFoundries
+
+Designed & verified a multi-cycle 16-bit RISC CPU in Verilog.
+
+Custom ISA with request/acknowledge handshake protocol and debouncer integration.
+
+Targeted GF 180nm PDK.
+
+🔹 Dual Port RAM (4096×64)
+
+Designed and verified in SystemVerilog.
+
+Implemented functional coverage & SVVM-based testbench.
+
+🔹 Synchronous Modulo-12 Counter
+
+Built a 4-bit synchronous up/down counter.
+
+Verified with coverage-driven testbench.
+
+🔹 64-bit ALU
+
+Designed and verified in Verilog.
+
+Testbenches in SystemVerilog with assertions & coverage.
+
+🔹 4-bit Multiplexer Verification
+
+Verified using SVVM methodology.
+
+Achieved 100% functional coverage.
+
+🎓 Training
+
+VLSI Expert (Oct 2024 – Present)
+Hands-on ASIC Verification using Synopsys tools.
+
+RTL design & verification of digital blocks
+
+Methodology-based verification environment
+
+🏆 Achievements
+
+🥉 3rd Place – Drone Flying & Building Competition (Aerobots Club)
+
+📌 How to Use This Repository
+
+This repository showcases my VLSI design & verification projects, complete with RTL, testbenches, and documentation.
+Explore project directories for:
+
+📜 RTL Code
+
+🧪 Testbenches
+
+📊 Coverage Reports
+
+⚡ Always open to collaboration in Digital Design, ASIC/FPGA Verification, and RTL development.
